@@ -4,7 +4,7 @@ return fn();
 }
 
 setThisWithCall(fn, thisValue, arg){
-  
+
 }
 // function serve(){
 //   console.log(${this.fn});
