@@ -7,4 +7,3 @@ return "fn"
 // }
 // const f = new justInvoke("malia")
 // serve.call(f)
-
